@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0009-palindrome-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -26,5 +27,6 @@
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/rodeljosephsijo/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
