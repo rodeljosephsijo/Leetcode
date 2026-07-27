@@ -6,6 +6,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rodeljosephsijo/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Matrix
 |  |
 | ------- |
