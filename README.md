@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rodeljosephsijo/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
