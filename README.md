@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rodeljosephsijo/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0605-can-place-flowers) |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rodeljosephsijo/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
