@@ -1,3 +1,4 @@
+
 class Solution:
     def compress(self, chars: list[str]) -> int:
         read = write = 0
