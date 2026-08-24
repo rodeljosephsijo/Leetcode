@@ -71,4 +71,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0392-is-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
