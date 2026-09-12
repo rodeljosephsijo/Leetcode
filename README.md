@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeljosephsijo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/rodeljosephsijo/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rodeljosephsijo/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -37,6 +38,7 @@
 | [0011-container-with-most-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/rodeljosephsijo/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeljosephsijo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rodeljosephsijo/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rodeljosephsijo/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0392-is-subsequence) |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeljosephsijo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
