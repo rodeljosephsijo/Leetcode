@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rodeljosephsijo/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rodeljosephsijo/Leetcode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/rodeljosephsijo/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rodeljosephsijo/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rodeljosephsijo/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -71,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0392-is-subsequence) |
 ## Euclidean Algorithm
@@ -81,4 +84,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
