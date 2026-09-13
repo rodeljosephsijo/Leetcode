@@ -15,14 +15,17 @@
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rodeljosephsijo/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
