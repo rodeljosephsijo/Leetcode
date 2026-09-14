@@ -32,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
