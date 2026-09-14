@@ -82,6 +82,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/rodeljosephsijo/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0392-is-subsequence) |
 ## Euclidean Algorithm
 |  |
@@ -106,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rodeljosephsijo/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
