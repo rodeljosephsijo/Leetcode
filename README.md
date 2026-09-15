@@ -18,6 +18,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rodeljosephsijo/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2652-sum-multiples](https://github.com/rodeljosephsijo/Leetcode/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@
 | [0136-single-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/rodeljosephsijo/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
+| [2527-find-xor-beauty-of-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 ## Sorting
 |  |
 | ------- |
