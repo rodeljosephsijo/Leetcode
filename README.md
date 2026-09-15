@@ -32,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -108,6 +109,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/rodeljosephsijo/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
