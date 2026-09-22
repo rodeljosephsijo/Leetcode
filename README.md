@@ -38,6 +38,7 @@
 | [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1922-count-good-numbers](https://github.com/rodeljosephsijo/Leetcode/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2652-sum-multiples](https://github.com/rodeljosephsijo/Leetcode/tree/master/2652-sum-multiples) |
@@ -125,4 +126,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/rodeljosephsijo/Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
