@@ -16,6 +16,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/rodeljosephsijo/Leetcode/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rodeljosephsijo/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeljosephsijo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/rodeljosephsijo/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
