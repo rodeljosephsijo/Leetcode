@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeljosephsijo/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rodeljosephsijo/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rodeljosephsijo/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
@@ -123,10 +125,23 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/rodeljosephsijo/Leetcode/tree/master/1922-count-good-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
