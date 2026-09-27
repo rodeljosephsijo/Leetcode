@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rodeljosephsijo/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/rodeljosephsijo/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rodeljosephsijo/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0136-single-number) |
@@ -43,6 +44,7 @@
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/rodeljosephsijo/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rodeljosephsijo/Leetcode/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rodeljosephsijo/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rodeljosephsijo/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/rodeljosephsijo/Leetcode/tree/master/1922-count-good-numbers) |
