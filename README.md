@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/rodeljosephsijo/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rodeljosephsijo/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rodeljosephsijo/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rodeljosephsijo/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rodeljosephsijo/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rodeljosephsijo/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rodeljosephsijo/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -113,11 +114,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rodeljosephsijo/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rodeljosephsijo/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
@@ -166,4 +169,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rodeljosephsijo/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
