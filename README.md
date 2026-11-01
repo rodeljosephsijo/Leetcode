@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
+| [0071-simplify-path](https://github.com/rodeljosephsijo/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/rodeljosephsijo/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rodeljosephsijo/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0392-is-subsequence) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/rodeljosephsijo/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rodeljosephsijo/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/rodeljosephsijo/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
