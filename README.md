@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/rodeljosephsijo/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/rodeljosephsijo/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rodeljosephsijo/Leetcode/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/rodeljosephsijo/Leetcode/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/rodeljosephsijo/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -169,6 +170,7 @@
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -182,4 +184,9 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rodeljosephsijo/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
