@@ -119,6 +119,7 @@
 | [0042-trapping-rain-water](https://github.com/rodeljosephsijo/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rodeljosephsijo/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rodeljosephsijo/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/rodeljosephsijo/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rodeljosephsijo/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -170,6 +171,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rodeljosephsijo/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/rodeljosephsijo/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -188,5 +190,6 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rodeljosephsijo/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
