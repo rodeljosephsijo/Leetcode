@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rodeljosephsijo/Leetcode/tree/master/0012-integer-to-roman) |
+| [0146-lru-cache](https://github.com/rodeljosephsijo/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rodeljosephsijo/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/rodeljosephsijo/Leetcode/tree/master/0645-set-mismatch) |
 ## Greedy
@@ -172,6 +173,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rodeljosephsijo/Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/rodeljosephsijo/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rodeljosephsijo/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
@@ -187,6 +189,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rodeljosephsijo/Leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/rodeljosephsijo/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
@@ -195,4 +198,8 @@
 | [0225-implement-stack-using-queues](https://github.com/rodeljosephsijo/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rodeljosephsijo/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/rodeljosephsijo/Leetcode/tree/master/0622-design-circular-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rodeljosephsijo/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
